@@ -1,0 +1,15 @@
+Vad är skillnaden mellan IaaS, PaaS och SaaS?
+IaaS = du hyr infrastruktur som servrar, nätverk och lagring. Du ansvarar själv för operativsystem, applikationer och data.till exempel Azure virtuel machines, AWS EC2
+PaaS = du hyr en plattform där du kan utveckla, köra och hantera applikationer utan att behöva hantera infrastrukturen. Du ansvarar för applikationer och data.till exempel Azure app service, Heroku 
+SaaS = du hyr en färdig applikation som körs på leverantörens infrastruktur. Du ansvarar bara för att använda applikationen och dina data. exempel gmail, dropbox, office365
+Vad gör Git och vad är GitHub?
+GIT = Versionhantering på datorn (lokalt)
+GITHUB = en plattform i molnet du använder i molnetför att samarbeta med github
+Vad är ett informationssystem?
+ett system där männsikor, teknik och processorer hanterar information till exempel banksystem eller sjukhussystem  
+Vad är CIA-triaden?
+C = CONFIDENTALITY (sEKRETESS)
+I = Integrity ( att datan inte ändras felaktigt)
+A = Availability (att datan är tillgänglig när den behövs)
+Vad är Continuous Integration (CI)?
+att kod automatisk testas och byggs varje gång man pushar till repot. så snabbt ser om något är fel
