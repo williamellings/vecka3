@@ -1,0 +1,12 @@
+## Vad visste du om mjukvaruutveckling innan kursen – och vad vet du nu?
+Html och css, jag vet en hel del mer om github och git men även visual studio. 
+## Vad betyder “DevOps” för dig? Hur skulle du förklara det till en kompis?
+Att få en ide och kunna göra den till verklighet. Om jag skulle förklara det för en kompis så skulle jag säga att det är en process om att bygga, testa och släppa em kod. 
+## Hur tänker du kring molnet? Vad känns spännande – och vad känns svårt?
+Jag tänker och hoppas det kommer bli mer och mer vanligt att använda molnet. Så det alltid kommer behövas backend utvecklare inriktning cloud.
+## Vad innebär det att vara en systemutvecklare i ett team?
+Att utvecklas, respektera och hjälpa varandra.
+## Vad har varit mest intressant under kursens tre veckor?
+Att få lära sig mer om github och git, att få lära sig att jobba i team, att få lära sig vattenfallsmetoden och agila metoden.
+Jag har också lagt till en GitHub Action som körs automatiskt när jag pushar till repot. 
+Jag kan se i GitHub under fliken action att workflowet körs varje gång jag gör en ny commit.
